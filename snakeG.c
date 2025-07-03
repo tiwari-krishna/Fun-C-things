@@ -53,6 +53,7 @@ int main() {
   while (1) {
     int pressed = wgetch(win);
     keyPress(pressed, &dir);
+    
     snake.x += dir.x;
     snake.y += dir.y;
     erase();
