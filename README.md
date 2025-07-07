@@ -1,1 +1,1 @@
-#This is a snake game made in c.
+# This is a snake game made in c.
